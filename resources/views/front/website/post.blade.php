@@ -68,8 +68,8 @@
                     <div class="pt-5">
                         <p>Kategoriler:  <a href="#">Mizah</a>, <a href="#">Bilim kurgu</a>  Tags: <a href="#">#Mizahi</a>, <a href="#">#Ütopik</a></p>
                         <div class="pt-5">
-                            <h3 class="mb-5">6 Yorumlar</h3>
-                            <ul class="comment-list">
+                            <h3 class="mb-5"> Yorumlar</h3>
+                            <div class="comment-list">
                                 <li class="comment">
                                     <div class="vcard">
                                         <img src="Hannibal-Cinerituellllllll.png" alt="Image placeholder">
@@ -136,22 +136,13 @@
                                         </li>
                                     </ul>
                                 </li>
+                                <div class="text-center"</div>
+                                <button type="button">Yorum bırak</button>
 
-                                <li class="comment">
-                                    <div class="vcard">
-                                        <img src="Hannibal-Cinerituellllllll.png" alt="Image placeholder">
-                                    </div>
-                                    <div class="comment-body">
-                                        <h3>Hatice sezgin</h3>
-                                        <div class="meta">6 nisan 2023 15:11</div>
-                                        <p>Yorum Kısmı</p>
-                                        <p><a href="#" class="reply rounded">Cevapla</a></p>
-                                    </div>
-                                </li>
-                            </ul>
-
+                               </ul>
 
                         </div>
+                </div>
                 </div>
             </div>
         </div>
@@ -159,6 +150,7 @@
     </section>
 
 @endsection
+
 
 
 
